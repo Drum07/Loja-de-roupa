@@ -9219,7 +9219,7 @@ body.elementor-page-4703>.elementor-motion-effects-container>.elementor-motion-e
 /* Start custom CSS for container, class: .elementor-element-809b5cc */
 
 .elementor-4703 .elementor-element.elementor-element-809b5cc {
-    background: linear-gradient(90deg, #fc8804 0%, #000000 100%);
+    background: linear-gradient(90deg, #007bff 0%, #000000 100%);
 }
 
 
@@ -9301,7 +9301,7 @@ body.elementor-page-4703>.elementor-motion-effects-container>.elementor-motion-e
 /* Start custom CSS for container, class: .elementor-element-408e7dc */
 
 .elementor-4703 .elementor-element.elementor-element-408e7dc {
-    background: linear-gradient(90deg, #fc8804 0%, #000000 100%);
+    background: linear-gradient(90deg, #007bff 0%, #000000 100%);
 }
 
 
@@ -9556,7 +9556,7 @@ body.elementor-page-4703>.elementor-motion-effects-container>.elementor-motion-e
 .box2::before {
     content: "";
     border-radius: 0px !important;
-    background: linear-gradient(90deg, #fc8804, #000000);
+    background: linear-gradient(90deg, #007bff, #000000);
     width: 30%;
     height: 7px;
     position: absolute;
@@ -9672,7 +9672,7 @@ body.elementor-page-4703>.elementor-motion-effects-container>.elementor-motion-e
 /* Start custom CSS for container, class: .elementor-element-179ab19f */
 
 .elementor-4703 .elementor-element.elementor-element-179ab19f {
-    background: linear-gradient(90deg, #fc8804 0%, #000000 100%);
+    background: linear-gradient(90deg, #007bff 0%, #000000 100%);
 }
 
 
@@ -10285,27 +10285,27 @@ body {
 }
 
 .cor {
-    color: #fc8804;
+    color: #3b87df;
 }
 
 .cor2 {
-    color: #fc8804;
+    color: #3b87df;
 }
 
 .vermelho {
-    color: #fc8804;
+    color: #3b87df;
 }
 
 .cor3 {
-    color: #fc8804;
+    color: #3b87df;
 }
 
 .cor4 {
-    color: #fc8804;
+    color: #3b87df;
 }
 
 .cor5 {
-    color: #fc8804;
+    color: #3b87df;
 }
 
 .sm {
@@ -10329,28 +10329,28 @@ body {
 }
 
 .cor222 {
-    background: var(--GRADIENTE, linear-gradient(90deg, #fc8804 0%, #fc8804 100%));
+    background: var(--GRADIENTE, linear-gradient(90deg, #3b87df 0%, #ffffff 100%));
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 .cor111 {
-    background: linear-gradient(90deg, #fc8804 0%, #D9FFB4 100%);
+    background: linear-gradient(90deg, #fceb04 0%, #D9FFB4 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 .cor333 {
-    background: var(--GRADIENTE-3, linear-gradient(90deg, #fc8804 0%, #fc8804 100%));
+    background: var(--GRADIENTE-3, linear-gradient(90deg, #3b87df 0%, #3b87df 100%));
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 .cor444 {
-    background: var(--GRADIENTE-2, linear-gradient(90deg, #fc8804 0%, #fc8804 127.56%));
+    background: var(--GRADIENTE-2, linear-gradient(90deg, #3b87df 0%, #3b87df 127.56%));
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
